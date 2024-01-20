@@ -1,0 +1,77 @@
+body{
+    background-color: brown;
+    background-image: url(фон2.jpg);
+}
+nav li{
+    list-style: none;
+    padding: 0 40px;
+    display:flex;
+
+
+    
+}
+nav ul{
+    display: flex;
+    background-color: rgb(133, 29, 29);height: 30px;
+justify-content: center
+}
+header{
+    text-align: center;
+}
+ nav a{
+    text-decoration: none;
+    color: beige;
+    font-size: 20px;
+}
+.pon{
+    text-align: center;
+}
+p{
+    text-align: center;
+}
+h1{
+    color: darkorange;
+    text-align: center;
+    font-size: 50px;
+}
+.play{
+    display: flex;
+    justify-content: space-around;
+}
+.photo{
+text-align: center;
+}
+footer{
+    
+    background-color: rgb(79, 4, 4);
+}
+.g{
+    display: flex;
+    justify-content: space-evenly;
+    width: 80%; /* Ширина контейнера */
+    margin: 0 auto; /* Выравнивание контейнера по центру */
+    display: flex; /* Установка типа отображения контейнера как flex */
+    flex-direction: column; /* Установка направления элементов контейнера как вертикальное */
+
+    
+    
+
+}
+.kontact{
+    text-align: center;
+}
+h3{
+    
+    text-align: center;
+}
+h3:hover{
+background-color: rgb(255, 0, 0);
+}
+ul{
+    list-style: none;
+    display: flex;
+    justify-content: space-around;
+     
+}
+
+
